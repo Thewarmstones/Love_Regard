@@ -7,12 +7,6 @@
  * @Description: 小高网
  * @Document：https://www.xx8g.com
  * @Copyright (c) 2024 by Ki All Rights Reserved. 
- * @Warning：禁止以任何方式出售本项目 如有发现一切后果自行负责
- * @Warning：禁止以任何方式出售本项目 如有发现一切后果自行负责
- * @Warning：禁止以任何方式出售本项目 如有发现一切后果自行负责
- * @Message：开发不易 版权信息请保留 （删除/更改版权的无耻之人请勿使用 查到一个挂一个）
- * @Message：开发不易 版权信息请保留 （删除/更改版权的无耻之人请勿使用 查到一个挂一个）
- * @Message：开发不易 版权信息请保留 （删除/更改版权的无耻之人请勿使用 查到一个挂一个）
  */
 
 header("Content-Type:text/html; charset=utf8");
@@ -21,16 +15,16 @@ header("Content-Type:text/html; charset=utf8");
 $db_address = "localhost";
 
 //数据库用户名
-$db_username = "111";
+$db_username = "ForLychee";
 
 //数据库密码
-$db_password = "111111";
+$db_password = "lychee";
 
 //数据库表名
-$db_name = "111";
+$db_name = "Love_regard";
 
 //敏感信息修改安全码 建议设置复杂一些
-$Like_Code = "Love";
+$Like_Code = "LoveLychee";
 
 //版本号
-$version = 20240612;
+$version = 20241104;
